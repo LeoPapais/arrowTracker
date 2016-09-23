@@ -1,0 +1,1 @@
+/home/leo/source/opencv/opencv-2.4.9/test/CMakeFiles/reconhecimento.dir
